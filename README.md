@@ -11,6 +11,7 @@ préféré.
 
 ## Liste de langages de programmation
 
+- C#
 - C
 - C++
 - Go
